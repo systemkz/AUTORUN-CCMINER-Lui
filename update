@@ -2,7 +2,7 @@
   
 cd
 rm -rf AUTORUN-CCMINER-Lui
-git clone https://github.com/pichetx/AUTORUN-CCMINER-Lui 
+git clone https://github.com/systemkz/AUTORUN-CCMINER-Lui 
 cd ../etc/mobile-mining/set-miner
 cp -r online.json offline.json /../root/AUTORUN-CCMINER-Lui/mobile-mining/set-miner
 cd
